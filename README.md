@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Boris 👋</h1>
-<h3 align="center">A pre-junior frontend developer</h3>
+// <h3 align="center">A pre-junior frontend developer</h3>
 
 - 🌱 I’m currently learning **JS Application Course at SoftUni**
 - 📫 How to reach me **btodorovtodorov@gmail.com**
