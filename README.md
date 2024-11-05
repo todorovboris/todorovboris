@@ -2,9 +2,7 @@
 <h3 align="center">A pre-junior frontend developer</h3>
 
 - 🌱 I’m currently learning **JS Application Course at SoftUni**
-
 - 📫 How to reach me **btodorovtodorov@gmail.com**
-
 - ⚡ Fun fact: **I ♥ 🏃‍♂️ 🚵‍♂️**
 
 <h3 align="left">Connect with me:</h3>
