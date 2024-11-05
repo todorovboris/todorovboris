@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Boris 👋</h1>
+<h1 align="center">Hi guys, I'm Boris 👋</h1>
 
 - 🌱 I’m currently learning **JS Application Course at SoftUni**
 - 📫 How to reach me **btodorovtodorov@gmail.com**
