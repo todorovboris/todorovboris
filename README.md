@@ -5,7 +5,7 @@
 - 💻 Currently working at NIQ as a Senior Data Processing Specialist
 - 🌱 Learning **JS and Frontend Web Development at Software University**
 - 📫 How to reach me **btodorovtodorov@gmail.com**
-- ⚡ Fun fact: **I ♥ 🏃‍♂️ 🚵‍♂️**
+- ⚡ Fun fact: **I ♥ 🚵‍♂️ 🏃‍♂️**
 
 
 
