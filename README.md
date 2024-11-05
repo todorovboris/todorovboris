@@ -1,6 +1,7 @@
 <h2 align="left">👋 Introduction</h1>
 
 <h3 align="left">Hi, I am Boris Todorov 🇧🇬</h2>
+
 - 🌱 I’m currently learning **JS Application Course at SoftUni**
 - 📫 How to reach me **btodorovtodorov@gmail.com**
 - ⚡ Fun fact: **I ♥ 🏃‍♂️ 🚵‍♂️**
