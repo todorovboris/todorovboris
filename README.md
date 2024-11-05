@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **btodorovtodorov@gmail.com**
 
-- ⚡ Fun fact **I ♥ 🏃‍♂️ 🚵‍♂️**
+- ⚡ Fun fact: **I ♥ 🏃‍♂️ 🚵‍♂️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
