@@ -6,6 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/boris-todorov-b14053167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boris-todorov-b14053167" height="30" width="40" /></a>
 <a href="https://fb.com/todorovboris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="todorovboris" height="30" width="40" /></a>
 <a href="https://instagram.com/todorovboris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="todorovboris" height="30" width="40" /></a>
 </p>
