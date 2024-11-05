@@ -1,4 +1,5 @@
-<h1 align="center">Hi guys, I'm Boris 👋</h1>
+<h1 align="center">👋 Introduction</h1>
+<h2>Hi, I am Boris Todorov 🇧🇬</h2>
 
 - 🌱 I’m currently learning **JS Application Course at SoftUni**
 - 📫 How to reach me **btodorovtodorov@gmail.com**
@@ -15,5 +16,5 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=todorovboris&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=todorovboris&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=todorovboris&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=todorovboris&theme=dark&no-frame=false&no-bg=false&margin-w=4)
