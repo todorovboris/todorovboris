@@ -1,10 +1,10 @@
-<h1 align="left">👋 Introduction</h1>
+<h2 align="left">👋 Introduction</h1>
 
-<h2 align="left">Hi, I am Boris Todorov 🇧🇬
+<h3 align="left">Hi, I am Boris Todorov 🇧🇬</h2>
 - 🌱 I’m currently learning **JS Application Course at SoftUni**
 - 📫 How to reach me **btodorovtodorov@gmail.com**
 - ⚡ Fun fact: **I ♥ 🏃‍♂️ 🚵‍♂️**
-</h2>
+
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
