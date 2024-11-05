@@ -1,3 +1,10 @@
+<h1 align="center">Hi guys, I'm Boris 👋</h1>
+
+- 🌱 I’m currently learning **JS Application Course at SoftUni**
+- 📫 How to reach me **btodorovtodorov@gmail.com**
+- ⚡ Fun fact: **I ♥ 🏃‍♂️ 🚵‍♂️**
+
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/todorovboris) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/todorovboris) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/boris-todorov-b14053167) 
 
