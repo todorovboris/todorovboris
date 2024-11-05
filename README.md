@@ -3,7 +3,7 @@
 <h3 align="left">Hi, I am Boris Todorov 🇧🇬</h2>
 
 - 💻 Currently working at NIQ as a Senior Data Processing Specialist
-- 🌱 Learning **JS Web Development at Software University**
+- 🌱 Learning **JS and Frontend Web Development at Software University**
 - 📫 How to reach me **btodorovtodorov@gmail.com**
 - ⚡ Fun fact: **I ♥ 🏃‍♂️ 🚵‍♂️**
 
