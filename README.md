@@ -1,4 +1,4 @@
-<h2 align="left">👋 Introduction</h2>
+## 👋 Introduction:
 
 <h3 align="left">Hi, I am Boris Todorov 🇧🇬</h3>
 
