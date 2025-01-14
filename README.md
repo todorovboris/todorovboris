@@ -7,7 +7,7 @@
 
 ### 🎓 Education:
 - **Web Development** - Software University (2023-2025)
-- **Business Informataics with specialization "IT Business Analytics"** - University of National and World Economy (2011-20016)
+- **Business Informataics with specialization "IT Business Analytics"** - UNWE (2011-20016)
 - **Profile of Mathematics and Informatics** - Graduated in Science and Mathematics High School (2007-2011)
 
 ### 💻 Work:
