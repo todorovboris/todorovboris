@@ -6,15 +6,20 @@
 <a href="https://instagram.com/todorovboris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="todorovboris" height="20" width="30" /></a>
 
 ### 💻 Work:
-- Currently working at NIQ as a Senior Data Processing Specialist
+- **Senior Data Processing Specialist** at NIQ 
 
 ### 🎓 Education:
-- Currently Learning **JS and Front-End Web Development at Software University**
-- Master Degree in IT Specialization for Business Analyzes from University of National and World Economy
-- Graduated from Science and Mathematics high school with a profile of mathematics and informatics
+- **Front-End Web Development** - Software University (2023-2025)
+- **Business Informataics with specialization "IT Business Analytics"** - University of National and World Economy (2011-20016)
+- **Profile of Mathematics and Informatics** - Graduated in Science and Mathematics high school (2008-2011)
 
-- 📫 How to reach me **btodorovtodorov@gmail.com**
-- ⚡ Fun fact: **I ♥ 🚵‍♂️ 🏃‍♂️**
+### Projects:
+- **Find The Book** - web-based application designed to simplify the process of finding books in bookstores or libraries.
+
+### Other Interests:
+- Love the active lifestyle, spent time while hiking in the mountains, bikes, mountain bikes and running
+
+
 
 ## Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
