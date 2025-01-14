@@ -5,13 +5,13 @@
 <a href="https://fb.com/todorovboris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="todorovboris" height="20" width="30" /></a>
 <a href="https://instagram.com/todorovboris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="todorovboris" height="20" width="30" /></a>
 
-### 💻 Work:
-- **Senior Data Processing Specialist** at NIQ 
-
 ### 🎓 Education:
 - **Web Development** - Software University (2023-2025)
 - **Business Informataics with specialization "IT Business Analytics"** - University of National and World Economy (2011-20016)
 - **Profile of Mathematics and Informatics** - Graduated in Science and Mathematics High School (2007-2011)
+
+### 💻 Work:
+- **Senior Data Processing Specialist** at NIQ 
 
 ### 💡 Projects:
 - 📚**Find The Book** - web-based application designed to simplify the process of finding books in bookstores or libraries. - https://github.com/todorovboris/find-the-book
