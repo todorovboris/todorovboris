@@ -1,14 +1,14 @@
 ## 👋 Introduction:
 
-### Hi, I am Boris Todorov 🇧🇬
+###Hi, I am Boris Todorov 🇧🇬
 <a href="https://linkedin.com/in/boris-todorov-b14053167" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boris-todorov-b14053167" height="20" width="30" /></a>
 <a href="https://fb.com/todorovboris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="todorovboris" height="20" width="30" /></a>
 <a href="https://instagram.com/todorovboris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="todorovboris" height="20" width="30" /></a>
 
-### 💻 Work:
+###💻 Work:
 - Currently working at NIQ as a Senior Data Processing Specialist
 
-### 🌱 Education:
+###🌱 Education:
 - Currently Learning **JS and Front-End Web Development at Software University**
 - Master Degree in IT Specialization for Business Analyzes from University of National and World Economy
 - Graduated from Science and Mathematics high school with a profile of mathematics and informatics
