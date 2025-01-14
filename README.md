@@ -14,7 +14,7 @@
 - **Profile of Mathematics and Informatics** - Graduated in Science and Mathematics high school (2008-2011)
 
 ### 💡 Projects:
-- 📚**Find The Book** - web-based application designed to simplify the process of finding books in bookstores or libraries.
+- 📚**Find The Book** - web-based application designed to simplify the process of finding books in bookstores or libraries. - https://github.com/todorovboris/find-the-book
 
 ### 🔭 Other Interests:
 - Love the active lifestyle, spent time while hiking in the mountains, bikes, mountain bikes and running
