@@ -8,7 +8,7 @@
 ###💻 Work:
 - Currently working at NIQ as a Senior Data Processing Specialist
 
-###🌱 Education:
+###🎓 Education:
 - Currently Learning **JS and Front-End Web Development at Software University**
 - Master Degree in IT Specialization for Business Analyzes from University of National and World Economy
 - Graduated from Science and Mathematics high school with a profile of mathematics and informatics
