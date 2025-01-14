@@ -13,13 +13,11 @@
 ### 💻 Work:
 - **Senior Data Processing Specialist** at NIQ 
 
-### 💡 Projects:
-- 📚**Find The Book** - personal web-based SPA application designed to simplify the process of finding books in bookstores or libraries. - https://github.com/todorovboris/find-the-book
-
 ### 🔭 Other Interests:
 - Love the active lifestyle, spent time while hiking in the mountains, bikes, mountain bikes and running
 
-
+## 💡 Projects:
+- 📚**Find The Book** - personal web-based SPA application designed to simplify the process of finding books in bookstores or libraries. - https://github.com/todorovboris/find-the-book
 
 ## Languages and Tools:
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
