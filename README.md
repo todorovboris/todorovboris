@@ -16,7 +16,7 @@
 
 
 ## 💡 Projects:
-- 📚**Find The Book** - personal web-based SPA application designed to simplify the process of finding books in bookstores or libraries. - https://github.com/todorovboris/find-the-book
+- 📚 **Find The Book** - personal web-based SPA application designed to simplify the process of finding books in bookstores or libraries. - https://github.com/todorovboris/find-the-book
 
 
 
