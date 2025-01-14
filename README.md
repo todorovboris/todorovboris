@@ -9,14 +9,14 @@
 - **Senior Data Processing Specialist** at NIQ 
 
 ### 🎓 Education:
-- **Front-End Web Development** - Software University (2023-2025)
+- **Web Development** - Software University (2023-2025)
 - **Business Informataics with specialization "IT Business Analytics"** - University of National and World Economy (2011-20016)
 - **Profile of Mathematics and Informatics** - Graduated in Science and Mathematics high school (2008-2011)
 
-### Projects:
-- **Find The Book** - web-based application designed to simplify the process of finding books in bookstores or libraries.
+### 💡 Projects:
+- 📚**Find The Book** - web-based application designed to simplify the process of finding books in bookstores or libraries.
 
-### Other Interests:
+### 🔭 Other Interests:
 - Love the active lifestyle, spent time while hiking in the mountains, bikes, mountain bikes and running
 
 
