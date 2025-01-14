@@ -1,6 +1,6 @@
 ## 👋 Introduction:
 
-<h3 align="left">Hi, I am Boris Todorov 🇧🇬</h3>
+### Hi, I am Boris Todorov 🇧🇬
 
 - 💻 Currently working at NIQ as a Senior Data Processing Specialist
 - 🌱 Learning **JS and Front-End Web Development at Software University**
