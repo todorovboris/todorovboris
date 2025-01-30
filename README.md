@@ -21,7 +21,7 @@
 
 
 ## 🔭 Other Interests:
-- Love the active lifestyle, spent time while hiking in the mountains, running, bikinkg and mountain bikes.
+- Love the active lifestyle, spent time while hiking in the mountains, running, bikinkg and mountain biking.
 
 
 
