@@ -6,7 +6,7 @@
 <a href="https://instagram.com/todorovboris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="todorovboris" height="20" width="30" /></a>
 
 ### 🎓 Education:
-- **Web Development** - Software University (2023-2025)
+- **Web Development** - Software University (2024-2025)
 - **Business Informataics with specialization "IT Business Analytics"** - UNWE (2011-20016)
 - **Profile of Mathematics and Informatics** - Graduated in Science and Mathematics High School (2007-2011)
 
