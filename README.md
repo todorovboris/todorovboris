@@ -16,7 +16,7 @@
 
 
 ## 💡 Projects:
-- 📚 **Find The Book** - https://github.com/todorovboris/find-the-book
+- **Find The Book** - https://github.com/todorovboris/find-the-book
 - **React Calculator** - https://3l7xzf-5173.csb.app/
 - **Contact Form** - https://github.com/todorovboris/Contact-Form
 
