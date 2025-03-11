@@ -16,9 +16,9 @@
 
 
 ## 💡 Projects:
-- 📚 **Find The Book** - personal web-based SPA application designed to simplify the process of finding books in bookstores or libraries. - https://github.com/todorovboris/find-the-book
-- **React Calculator** - A simple calculator built with React, featuring basic arithmetic operations and a clean UI. - https://3l7xzf-5173.csb.app/
-- **Contact Form** - Simple Back-End app, which allows to the customers to fill a contact form and save the messages in the database - https://github.com/todorovboris/Contact-Form
+- 📚 **Find The Book** - https://github.com/todorovboris/find-the-book
+- **React Calculator** - https://3l7xzf-5173.csb.app/
+- **Contact Form** - https://github.com/todorovboris/Contact-Form
 
 
 
