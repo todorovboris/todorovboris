@@ -16,6 +16,7 @@
 
 
 ## 💡 Projects:
+- **Eventify** - https://eventify-455612.web.app/info
 - **Find The Book** - https://github.com/todorovboris/find-the-book
 - **React Calculator** - https://3l7xzf-5173.csb.app/
 - **Contact Form** - https://github.com/todorovboris/Contact-Form
